@@ -79,4 +79,4 @@ We aim to provide all contributors and maintainers with a safe and positive expe
 
 ## License
 
-PyPowerAutomate is licensed under the MIT License. See [LICENSE](https://github.com/C-Tech-Development-Corp/python_evs_automation?tab=MIT-1-ov-file#readme) for more details.
+python_evs_automation is licensed under the MIT License. See [LICENSE](https://github.com/C-Tech-Development-Corp/python_evs_automation?tab=MIT-1-ov-file#readme) for more details.
